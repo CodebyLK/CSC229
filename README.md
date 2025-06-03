@@ -1,4 +1,4 @@
-# CSC 229 Data Structures & Repository
+# CSC 229 Data Structures & Algorithms Repository
 
 <font size= "4">This repository contains assignments for Summer 2025 Data Structures & Algorithms.</font>  
 
